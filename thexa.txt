@@ -1,1 +1,2 @@
 hello iam new to github
+edited in master
